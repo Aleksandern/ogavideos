@@ -1,0 +1,524 @@
+{
+    "success": true,
+    "data": [
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "62d72602-4742-4405-ab5d-34f622e5e2b9",
+            "title": "K-Pop Sorceress by Harpo Marks",
+            "artist": "Harpo Marks",
+            "trainerName": "Vivian Yuan",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 152,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_kpop_sorceress_harpo_marks_vivian_yuan.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_kpop_sorceress_harpo_marks_vivian_yuan.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "6bf18db1-4eab-4671-bedb-878057416f32",
+            "title": "Nice Day and My Way",
+            "artist": "Lightboys | Ben Goldstein",
+            "trainerName": "Teagan Dixon",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 309,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_nice_day_and_my_way_teagandixon.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_nice_day_and_my_way_teagandixon.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "bdb5edf9-62fa-4887-912d-e6869f5c6a79",
+            "title": "College by Vic Sage",
+            "artist": "Vic Sage",
+            "trainerName": "Chu Khoy Sheng",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 148,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_college_chukhoysheng.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_college_chukhoysheng.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "4e5e706d-beba-4409-a43c-17d3b18efc1d",
+            "title": "Fuori Di Me by Kaput Blue",
+            "artist": "Kaput Blue",
+            "trainerName": "Chu Khoy Sheng",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 145,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_fuori_di_me_chukhoysheng.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_fuori_di_me_chukhoysheng.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "9599d397-9809-41ad-8386-8080288a3e7e",
+            "title": "Yea, Yea, Yea by Skrxlla",
+            "artist": "Skrxlla",
+            "trainerName": "Brionii Vardon",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 165,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_yea_yea_yea_brioniivardon.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_yea_yea_yea_brioniivardon.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "0a030acb-763d-44d0-8f76-b970779956eb",
+            "title": "Tokyo by Nbdy Nprtnt",
+            "artist": "Nbdy Nprtnt",
+            "trainerName": "Chu Khoy Sheng",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 147,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_tokyo_chukhoysheng.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_tokyo_chukhoysheng.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "795f4278-d7f2-4019-9ba1-ca4fedba4217",
+            "title": "Light and Sight by Sajan Nauriyal",
+            "artist": "Sajan Nauriyal",
+            "trainerName": "Teagan Dixon",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 360,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_light_and_sight_teagandixon.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_light_and_sight_teagandixon.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "92f256ae-205f-4d91-b207-49a0dd6e3fa1",
+            "title": "Hit the Beat by IamDayLight",
+            "artist": "IamDayLight",
+            "trainerName": "Brionii Vardon",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 169,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_hit_the_beat_brioniivardon.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_hit_the_beat_brioniivardon.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "1555eccf-9df1-4517-9812-a9dfb32554f9",
+            "title": "No Way by Vic Sage",
+            "artist": "Vic Sage",
+            "trainerName": "Chu Khoy Sheng",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 160,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_no_way_chukhoysheng.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_no_way_chukhoysheng.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "43989bf9-c438-4f65-b844-7aa15c510a8e",
+            "title": "You Warned Me by Eddy I",
+            "artist": "Eddy I",
+            "trainerName": "Brionii Vardon",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 182,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_you_warned_brioniivardon.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_you_warned_brioniivardon.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "bc5e3e43-346b-4866-a4d7-4d6f01f2734f",
+            "title": "Shi Gan Nang Bee by Helen Park",
+            "artist": "Helen Park",
+            "trainerName": "Vivian Yuan",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 188,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_shi_gan_nang_bee_vivian_yuan.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_shi_gan_nang_bee_vivian_yuan.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "e3fc763e-3553-49c7-b3eb-b7d039f590c0",
+            "title": "Korea Town by Harpo Marks",
+            "artist": "Harpo Marks",
+            "trainerName": "Vivian Yuan",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 149,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_korea_town_vivian_yuan.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_korea_town_vivian_yuan.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "03403b6d-01c5-4cea-b914-f321b0fc0225",
+            "title": "Step Up - Afrobeats by Jusa",
+            "artist": "Jusa",
+            "trainerName": "Rachael Okesola",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 213,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_step_up_rachaelokesola.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_step_up_rachaelokesola.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "e53dc4bb-1c32-4cb4-aca8-982ede83f7f2",
+            "title": "Queen of Afro Dancehall",
+            "trainerName": "Rachael Okesola",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 215,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_queen_rachaelokesola.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_queen_rachaelokesola.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "805e475f-347e-4df4-852f-b5c2146a6652",
+            "title": "Wors - Afrobeats by Jusa",
+            "artist": "Jusa",
+            "trainerName": "Rachael Okesola",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 208,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_wors_rachaelokesola.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_wors_rachaelokesola.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "af6ebc4b-4280-4a10-8ae9-cce29446cd6c",
+            "title": "Body on Fire by D Fine Us , Maya Isac",
+            "artist": "D Fine Us , Maya Isac",
+            "trainerName": "Vivian Yuan",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 198,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_body_on_fire_vivianyuan.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_body_on_fire_vivianyuan.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "ec62b826-ed0a-4be9-a9ba-ee7dd106521e",
+            "title": "Inini - Afrobeats by Jusa",
+            "artist": "Jusa",
+            "trainerName": "Rachael Okesola",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 215,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_inini_rachaelokesola.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_inini_rachaelokesola.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "24aad71d-4711-4b47-8d09-de804670ad37",
+            "title": "Trappin - Afrobeats by Jusa",
+            "artist": "Jusa",
+            "trainerName": "Rachael Okesola",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 181,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_trappin_rachaelokesola.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_trappin_rachaelokesola.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "75ecbe79-5e8c-4dd2-a662-17effa987128",
+            "title": "Take It To The Top by Ofrin",
+            "artist": "Ofrin",
+            "trainerName": "Nathan Short",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 199,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_take_it_to_the_top_nathanshort.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_take_it_to_the_top_nathanshort.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "6bc24833-f4e9-4630-8513-50c41290bc5c",
+            "title": "Coqueta by Litos",
+            "artist": "Litos",
+            "trainerName": "Ayhan Sulu",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 154,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_coqueta_ayhansulu.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_coqueta_ayhansulu.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "fa32926a-c52d-41b0-b913-28fd1a89c246",
+            "title": "Jell-O by Egozi",
+            "artist": "Egozi",
+            "trainerName": "Nathan Short",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 231,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_jell_o_nathanshort.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_jell_o_nathanshort.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "c3ec2e44-6bde-49c3-9693-512cc59a9d27",
+            "title": "Boom Boom by COSSY",
+            "artist": "COSSY",
+            "trainerName": "Ayhan Sulu",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 153,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_boom_boom_ayhansulu.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_boom_boom_ayhansulu.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "c9fa78db-2cbd-4ef8-84d8-a1b604d282e0",
+            "title": "Cerca De Ti by Matan Gov Ari",
+            "artist": "Matan Gov Ari",
+            "trainerName": "Ionut Iordache",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 269,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_cerca_de_ti_ionutiordache.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_cerca_de_ti_ionutiordache.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "fcbd3d09-834d-480e-ab44-e17b9942fe85",
+            "title": "Hungarian Salad by Yanivi",
+            "artist": "Yanivi",
+            "trainerName": "Nathan Short",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 264,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_hungarian_salad_nathanshort.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_hungarian_salad_nathanshort.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "6971d22a-f563-4cc9-8e30-41917397d870",
+            "title": "Recuerdos Mios by Litos by Litos",
+            "artist": "Litos",
+            "trainerName": "Ionut Iordache",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 189,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_recuerdos_mios_ionutiordache.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_recuerdos_mios_ionutiordache.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        },
+        {
+            "feedItemType": "WorkoutReel",
+            "id": "cc4465d4-8e1a-4016-b29d-40c31e40cb23",
+            "title": "Ocean by Vic Sage",
+            "artist": "Vic Sage",
+            "trainerName": "Brionii Vardon",
+            "description": "Tone your body to perfection with our interactive dance experience.",
+            "duration": 177,
+            "type": "Workout",
+            "video_url": "US8kLIIj6sU",
+            "meta": {
+                "s3video": "https://video.oga.fit/Videos/ogastudio_ocean_brioniivardon.mp4",
+                "previewVideo": "https://video.oga.fit/Videos/P_ogastudio_ocean_brioniivardon.mp4",
+                "channel": {
+                    "name": "Oga Studio",
+                    "logo": "https://video.oga.fit/Sprites/MainMenu/StudioLogos/Empty Logo.png"
+                },
+                "crc32": "0xe5dea0a1"
+            }
+        }
+    ]
+}
